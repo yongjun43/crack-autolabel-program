@@ -83,7 +83,7 @@ class MainWindow(QMainWindow):
         ls_vlay.addWidget(self.ls_sam_value)
         ls_vlay.addWidget(self.ls_sam_slider)
 
-        # # SAM group
+        # # SAM group <- 기존 코드 부분
         # sam_group = QGroupBox(self.tr("SAM"))
 
         # self.sam_checkbox = QCheckBox("SAM assistance")
@@ -92,7 +92,7 @@ class MainWindow(QMainWindow):
         # sam_vlay = QVBoxLayout(sam_group)
         # sam_vlay.addWidget(self.sam_checkbox)
 
-        # YOLO group (replacing SAM)
+        # YOLO group < - 수정 부분(SAM group -> YOLO group)
         yolo_group = QGroupBox(self.tr("YOLOv8 Auto Label"))
 
         self.yolo_btn = QCheckBox("Run YOLOv8 on current image")
