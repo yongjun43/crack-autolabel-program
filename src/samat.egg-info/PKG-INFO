@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: samat
+Version: 1.0.0
+Summary: SAM Annotation Tool
+Author-email: Sergei Sergienko <divelix1@gmail.com>
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: PyQt5
+Requires-Dist: numpy
+Dynamic: license-file
