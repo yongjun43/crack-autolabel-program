@@ -1,0 +1,6 @@
+device = "cuda" # or "cpu"
+
+[paths]
+data = "/home/tenant/samat"
+
+sam_weights = ""

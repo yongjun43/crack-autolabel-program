@@ -1,0 +1,12 @@
+# 가상환경
+venv/
+.venv/
+
+# 원본 이미지
+images/
+
+# 데이터 예제/대용량
+example_dataset/
+
+# 모델 (원하면 Git LFS로 관리)
+*.pt
