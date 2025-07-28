@@ -1,4 +1,4 @@
-# 🖌️ SAMat + YOLOv8-Seg 자동 라벨링 툴  
+# 🖌️ samat + YOLOv8-Seg 자동 라벨링 툴  
 **최종 갱신: 2025-07-28 (Asia/Seoul)**
 
 > SAMat GUI 에 **YOLOv8 Auto Label** 버튼을 추가해  
